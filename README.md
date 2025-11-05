@@ -1,5 +1,4 @@
-Sie finden diese Aufgabe auf github:
-<https://classroom.github.com/g/GBlMdMbp>.
+Sie finden diese Aufgabe auf github: s. Moodle
 
 Vergleichen Sie die Häufigkeit der Zahlen in **datensumme.txt** mit den
 Vorhersagen der Poissonverteilung. Bitte schreiben Sie Ihren Code in die
